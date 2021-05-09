@@ -1,0 +1,45 @@
+蚂蚁风控    复赛信息
+
+user_id 总共：9601365   非重复   212922
+event_id  在模型中有意义吗  
+
+gmt_occur
+
+这里的sum都是非缺失值  
+client_ip  总共：9592087 非重复：1793134     表明用户  用不同的client_ip    操作
+
+network     总共7423895   非重复：19
+
+device_sign    sum: 8430021 	distinct:256455
+
+info_1			sum :7710476	distinct:631977
+
+info_2			sum:800863		distinct:174280
+
+ip_prov			sum：8497753	distinct:71
+ip_city			sum: 7444615	distinct:381
+cert_prov		sum:9525867 	distinct:31
+cert_city		sum:9525867		distinct:452
+card_bin_prov   sum:2237517 	distinct:49
+card_bin_city	sum:1869898 	distinct:388
+card_mobile_prov sum:4756471	distinct:31
+  sum:4756475	distinct:379
+card_cert_prov	sum:4946541		distinct:31
+card_cert_city	sum:4946541		distinct:450
+is_one_people	sum:9601365		distinct:2
+mobile_oper_platform	sum:9601365	distinct:4
+operation_channel	sum:9601365	distinct:4
+pay_scene		sum:9601365		distinct:21
+amt				sum:9601365		distinct:4
+card_cert_no	sum:4972258		distinct:197623
+opposing_id		sum:9601365		distinct:1530907
+income_card_no	sum:815789		distinct:222164
+income_card_cert_no	sum:16111	distinct:	1628	
+income_card_mobile	sum:16111	distinct:	1629
+income_card_bank_code	sum:471556	distinct:	189
+province		sum:306925		distinct:85
+city			sum:263345		distinct:760
+is_peer_pay		sum:181693		distinct:2
+version			sum:7726802		distinct:681
+dt				sum:9601365		distinct:1
+is_fraud		sum:9601365		distinct:3
